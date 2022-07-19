@@ -1,0 +1,56 @@
+{
+  "name": "Cet #13",
+  "symbol": "COC+",
+  "description": "Deep in the heart of Dingus Forest echoes the sleepless cries of a troop of 10,000 apes. These aren’t just regular apes, however. These are degenerate apes.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/POhvn6NdkMfICIIIwHNs7CG4XIlnAYTvpkPWp9b6dl0?ext=png",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "Sea green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "peblo"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "313 hoodie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "313 mask"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "IDGAF"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "313 hoodie"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Slurp n burp"
+    },
+    {
+      "trait_type": "Upgrade",
+      "value": "Melk"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
